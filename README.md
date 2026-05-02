@@ -2,8 +2,7 @@
 
 # informaçoes gerais
 
-**nome do aluno:**Gabriel Drumond 
-**Matricula:**907488
+nome do aluno:Gabriel Drumond                                                                                                                                  Matricula:907488
 
 # Print
 
